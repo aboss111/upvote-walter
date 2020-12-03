@@ -1,0 +1,41 @@
+body {
+    background-color: #181a1b;
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+
+p {
+    color: white;
+}
+
+button {
+    border: white;
+}
+
+.row {
+    margin: 20px;
+    text-align: center;
+}
+
+.container h1 {
+    color: #c5cdc7;
+}
+
+.voteBtns button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    margin: auto;
+}
+
+.voteBtns p {
+    margin: auto;
+    text-align: center;
+}
+
+.voteBtns h5 {
+    display: none;
+    color: white;
+}
